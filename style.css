@@ -1,0 +1,13 @@
+table, td{
+  border-collapse: collapse;
+  border:2px solid hotpink;
+  text-align:center;
+  margin-left: auto; 
+  margin-right: auto;
+}
+.tour{
+border:4px dashed blueviolet;
+}
+.recipe th,.recipe td{
+  border:4px outset cadetblue;
+}
